@@ -1,1 +1,1 @@
-Using Lopgistic regression model with 90% accuracy
+# Using Lopgistic regression model with 90% accuracy
